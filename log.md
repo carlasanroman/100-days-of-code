@@ -12,6 +12,6 @@
 
 
 ### day 02 — oct. 25, 2018
-**Today's Progress**: I completed twice as many javascript lessons today than yesterday. I used the book "javascript & jquery" by jon duckett as back up resource. Also, I completed the Gold Code javascript in one try. yeee
+**Today's Progress**: I completed twice as many javascript lessons today than yesterday. I used the book "javascript & jquery" by jon duckett as a back up resource (i'm a visual learner.) Also, I completed the Golf Code lesson in one try. yeee
 
 **Thoughts:** Today felt good. Sure, I forgot a semi-colon and was stuck for a minute, but the momentum was there. I was on fire~ It helped using the js & jquery book; I'm a visual learner and that book is so darn beautiful. Plus, it makes javascript easy to understand. *Note to self - create my own javascript operators cheat sheet.* 
